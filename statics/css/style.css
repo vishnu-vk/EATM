@@ -1,0 +1,60 @@
+@font-face{
+    
+    font-family: federalescortoutimport;
+    src:url("federalescortout.ttf");
+}
+
+@keyframes message{
+    from{color: powderblue}
+    to{color: #2c3e50}
+}
+
+.header{
+    
+    width: 95%;
+    height: 600px;
+    background-color: powderblue;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 25px;
+}
+
+.headertext{
+    font-family: 'Russo One', sans-serif;
+    font-size: 148px;
+    margin-top: auto;
+    margin-left: 320px;
+    text-shadow: 4px 4px 4px #aaa;
+    color: #2c3e50;
+}
+.sub-wel{
+    float: left;
+    width: 700px;
+    height: 50px;
+    margin-left: 350px;
+    background-color: powderblue;
+    font-family: 'Russo One', sans-serif;
+    font-size: 30px;
+    color: #2c3e50;
+}
+
+.uup{
+    width: 200px;
+    height: 30px;
+    margin-left: 200px;
+}
+
+.btn{
+    margin-left:0px; 
+    float:left; 
+    width: 80px; 
+    height: 30px; 
+    background-color: powderblue; 
+    margin-left: -300px; 
+    margin-top: 20px; 
+    font-family: 'Russo One', sans-serif; 
+    font-size: 22px; 
+    border: 1px solid black; 
+    border-radius: 5px;
+}
